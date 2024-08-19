@@ -9,7 +9,7 @@
 ![dashboard 16](https://github.com/user-attachments/assets/6877cbb2-dbb6-40df-b748-eb3e1a251db3)
 ![dashboard 17](https://github.com/user-attachments/assets/4843b2b9-7df5-412c-bd2a-45705e630dc0)
 ![dashboard 18](https://github.com/user-attachments/assets/87c36baa-bb69-449c-8a9d-47ab215d771c)
-# **PURPLE THEME FOR PREMIUM MEMBERSHIP**
+# <span style="background-color: yellow;">**PURPLE THEME FOR PREMIUM MEMBERSHIP**</span>
 ![dashboard 3](https://github.com/user-attachments/assets/f0d370bd-972f-4113-b201-f71cbda449d8)
 ![dashboard 4](https://github.com/user-attachments/assets/529d9a30-8009-4435-8039-c6724c0b1e26)
 ![dashboard 5](https://github.com/user-attachments/assets/4a828044-5bd5-45e1-badc-67be31559fca)
